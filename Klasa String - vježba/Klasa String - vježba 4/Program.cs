@@ -14,7 +14,6 @@ namespace Klasa_String___vježba_4
             string recenica = Console.ReadLine();
             string[] rijeci = recenica.Split();
             Console.WriteLine(rijeci.First() + " " + rijeci.Last());
-
             Console.ReadKey();
         }
     }
