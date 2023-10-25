@@ -11,7 +11,6 @@ namespace Klasa_String___vježba_3
         static void Main(string[] args)
         {
             string recenica;
-
             Console.WriteLine("Unesite niz znakova: ");
             recenica = Console.ReadLine();
 
