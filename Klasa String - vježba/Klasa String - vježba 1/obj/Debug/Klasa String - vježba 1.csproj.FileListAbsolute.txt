@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\bin\Debug\Klasa String - vježba 1.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\bin\Debug\Klasa String - vježba 1.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\bin\Debug\Klasa String - vježba 1.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\obj\Debug\Klasa String - vježba 1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\obj\Debug\Klasa String - vježba 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\obj\Debug\Klasa String - vježba 1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\obj\Debug\Klasa String - vježba 1.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Klasa String - vježba 1\obj\Debug\Klasa String - vježba 1.pdb
