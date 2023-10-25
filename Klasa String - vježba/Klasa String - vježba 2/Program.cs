@@ -15,7 +15,6 @@ namespace Klasa_String___vježba_2
             Console.WriteLine("Unesite znakove: ");
             s1 = Console.ReadLine();
             Console.WriteLine(s1.Replace(" ", "_"));
-
             Console.ReadKey();
         }
     }
