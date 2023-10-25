@@ -18,9 +18,8 @@ namespace Klasa_String___vježba_5
             int x;
             double y;
 
-            string[] broj = brojevi.Split(' ');
-            x = Convert.ToInt32(broj[0]);
-            y = Convert.ToDouble(broj[1]);
+            x = Convert.ToInt32(brojevi.Split(' ')[0]);
+            y = Convert.ToDouble(brojevi.Split(' ')[1]);
 
             Console.WriteLine("Prvi broj je " + x + " i drugi je " + y);
 
